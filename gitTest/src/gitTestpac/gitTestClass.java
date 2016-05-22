@@ -7,6 +7,8 @@ public class gitTestClass {
 	public void testfun() {
 		
 		System.out.println("gittest");
+		System.out.println("commit test");
+		System.out.println("test after push");
 
 	}
 
